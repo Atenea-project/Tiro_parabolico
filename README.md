@@ -1,2 +1,2 @@
-# Tiro_parab-lico
+# Tiro_parabólico
 Primer cuadernillo de práctica.
