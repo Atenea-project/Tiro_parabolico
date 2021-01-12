@@ -11,4 +11,8 @@ Una guía de como usar este cuadernillo en su versión ejecutable esta disponibl
 
 https://youtu.be/xIwbPtWtnpo
 
+Un video guía de como usar los cuadernillos lo puedes encontrar en:
+
+https://youtu.be/IxAR8lZCkrA
+
 
